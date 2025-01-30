@@ -104,10 +104,12 @@ section {
 .edu {
     font-weight: 700;
     font-size: 16px;
+    background-image: url(https://wallpapers.com/images/hd/georgia-bulldogs-mark-260yu4fkhyng5hbu.jpg);
+    background-size: contain;
 }
 
 .edu p {
-    color: navy;
+    color: white;
 }
 
 .edu h2 {
